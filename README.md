@@ -1,5 +1,4 @@
-# Bitcoin-Flashing-Software
-# Bitcoin-flashing-software
+
 # Here are the features of the bitcoin flashing software v7.0.0 core network
 
 📌Send transactions with confirmation
